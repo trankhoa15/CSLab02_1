@@ -1,0 +1,7 @@
+C:\Users\MY COMPUTER\source\repos\CSLab02_Baitap3\CSLab02_Baitap3\bin\Debug\CSLab02_Baitap3.exe.config
+C:\Users\MY COMPUTER\source\repos\CSLab02_Baitap3\CSLab02_Baitap3\bin\Debug\CSLab02_Baitap3.exe
+C:\Users\MY COMPUTER\source\repos\CSLab02_Baitap3\CSLab02_Baitap3\bin\Debug\CSLab02_Baitap3.pdb
+C:\Users\MY COMPUTER\source\repos\CSLab02_Baitap3\CSLab02_Baitap3\obj\Debug\CSLab02_Baitap3.csproj.AssemblyReference.cache
+C:\Users\MY COMPUTER\source\repos\CSLab02_Baitap3\CSLab02_Baitap3\obj\Debug\CSLab02_Baitap3.csproj.CoreCompileInputs.cache
+C:\Users\MY COMPUTER\source\repos\CSLab02_Baitap3\CSLab02_Baitap3\obj\Debug\CSLab02_Baitap3.exe
+C:\Users\MY COMPUTER\source\repos\CSLab02_Baitap3\CSLab02_Baitap3\obj\Debug\CSLab02_Baitap3.pdb
